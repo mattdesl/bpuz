@@ -1,0 +1,1 @@
+The assignment was to create a clone of BallPuzzle in Java. BPuz, created by davedes, was written using the Slick 2D library.
